@@ -1,4 +1,4 @@
-
+![logo](https://github.com/addisumotora/addisumotora/blob/main/github.png?raw=true)
 <h1 align="center">Hi 👋, I'm Addisu Motora</h1>
 <h3 align="center">A passionate software Engineer from Ethiopia</h3>
 
