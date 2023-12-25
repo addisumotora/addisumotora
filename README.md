@@ -30,6 +30,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=addisumotora&show_icons=true&locale=en&layout=compact" alt="addisumotora" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=addisumotora&show_icons=true&locale=en" alt="addisumotora" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=addisumotora&" alt="addisumotora" /></p>
