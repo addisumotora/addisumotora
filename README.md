@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **IMIS(Integrated Management Information system)**
 
-- 🌱 I’m currently learning **Nest js and Next js**
+- 🌱 I’m currently learning **Flutter**
 
 - 👯 I’m looking to collaborate on **Hope for Children web app**
 
